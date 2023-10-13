@@ -1,3 +1,11 @@
+Tham khao:  https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
+
+https://webhostinggeeks.com/howto/how-to-run-wordpress-on-nginx-php-fpm-and-mysql/ 
+
+chung chi so https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
+
+cai mongo cho php https://www.php.net/manual/en/mongodb.installation.manual.php 
+
 ### Đổi pass 
 ```
 passwd root
@@ -8,7 +16,7 @@ vi /etc/ssh/sshd_config
 
 /etc/init.d/ssh restart
 
-ufw allow 40000/tcp
+ufw allow 58012/tcp
 ufw allow 80/tcp
 ```
 ### Cập nhật 
@@ -109,7 +117,7 @@ server {
                }
 }
 
- 
+ ```
 
 ### Tạo service chạy nodejs (có thể không cần)
 
@@ -133,3 +141,12 @@ Environment=NODE_ENV=production PORT=3000
 WantedBy=multi-user.target
 
 ```
+
+
+
+
+
+
+
+
+
