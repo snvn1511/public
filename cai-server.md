@@ -1,10 +1,4 @@
-Tham khao:  https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
 
-https://webhostinggeeks.com/howto/how-to-run-wordpress-on-nginx-php-fpm-and-mysql/ 
-
-chung chi so https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
-
-cai mongo cho php https://www.php.net/manual/en/mongodb.installation.manual.php 
 
 ### Đổi pass 
 ```
